@@ -1,0 +1,14 @@
+VideoStreamingApp/
+├── app/
+│   ├── build.gradle
+│   ├── src/
+│       ├── main/
+│           ├── java/com/example/videostreamingapp/
+│               ├── MainActivity.kt
+│               ├── Video.kt
+│               ├── VideoAdapter.kt
+│           ├── res/
+│               ├── layout/
+│                   ├── activity_main.xml
+│                   ├── item_video.xml
+│           ├── AndroidManifest.xml
